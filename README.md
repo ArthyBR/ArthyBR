@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![giphy](https://github.com/user-attachments/assets/555f3c30-7a7d-4860-930f-f7e7767a470f)
 https://editor.p5js.org/Arthur1A/full/kfkWmnxO-
-file:///C:/Users/ArthurAlvesPazeto/Downloads/AluraFlix%20Arthur%201A/index.html
+
